@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidProjekat</string>
+    <string name="posts">Post</string>
+    <string name="create_post">Create</string>
+    <string name="read_post">Read</string>
+    <string name="settings">Settings</string>
+</resources>
